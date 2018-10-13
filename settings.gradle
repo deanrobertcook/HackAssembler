@@ -1,0 +1,4 @@
+rootProject.name = 'hack-assembler'
+rootProject.buildFileName = 'build.gradle.kts'
+rootProject.name = 'hack-assembler'
+
